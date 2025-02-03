@@ -42,9 +42,9 @@ const SetmoreBooking = ({ isButton = false }: SetmoreBookingProps) => {
         href="https://booking.setmore.com/scheduleappointment/51e37050-f508-4918-857d-23c6fd274654"
       >
         <img
-          border="0"
           src="https://assets.setmore.com/setmore/images/2.0/Settings/book-now-black.svg"
           alt="Click here to book the appointment using setmore"
+          style={{ border: '0' }}
         />
       </a>
     </div>
